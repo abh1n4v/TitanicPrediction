@@ -1,0 +1,23 @@
+Recon on data:
+    Use .info() to get an understanding of data types
+    Use describe to get stat info and describe(include=['0'] to get descriptive info
+    isnull().sum() to get the sum of missing vals to fill
+    .shape to get the count of columns are rows 
+    .head to see the data in format
+Find relations in data using intution and graphs
+    python formatting:
+    https://www.geeksforgeeks.org/string-formatting-in-python/
+    https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3
+    more info about describe:
+        https://www.machinelearningplus.com/pandas/pandas-describe/#:~:text=(%22ignore%22)-,Pandas%20Describe%20Function,to%20the%20dataframe%20or%20series.
+    more info about value_counts()
+        https://www.geeksforgeeks.org/python-pandas-index-value_counts/#:~:text=value_counts()%20function%20returns%20object,the%20most%20frequently%2Doccurring%20element.
+    more info about group_by()
+        https://www.geeksforgeeks.org/python-pandas-dataframe-groupby/#:~:text=groupby()%20function%20is%20used,on%20any%20of%20their%20axes.
+    how to annotate heights of bargraph-ez
+        https://datavizpyr.com/annotate-barplot-with-bar_label-in-matplotlib/
+    how to fomrat annotation
+        https://stackoverflow.com/questions/67574082/how-can-i-format-a-label-created-using-matplotlibs-bar-label-as-a-rounded-perce
+   Heat maps are nice!
+        https://medium.com/@szabo.bibor/how-to-create-a-seaborn-correlation-heatmap-in-python-834c0686b88e 
+
